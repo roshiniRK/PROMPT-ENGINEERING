@@ -29,7 +29,6 @@ This report explores the fundamentals of Generative Artificial Intelligence (Gen
 10. Impact of Scaling in LLMs  
 11. Future Trends  
 12. Conclusion  
-13. References  
 
 ---
 
