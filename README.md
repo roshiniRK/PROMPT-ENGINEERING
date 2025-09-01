@@ -5,6 +5,7 @@
 
 # Exp 1: Fundamentals of Generative AI and Large Language Models (LLMs)
 # Aim:	
+
 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 Experiment:
 Develop a comprehensive report for the following exercises:
@@ -14,6 +15,7 @@ Develop a comprehensive report for the following exercises:
 4.	Generative AI impact of scaling in LLMs.
 
 # Algorithm: Step 1: Define Scope and Objectives
+
 1.1 Identify the goal of the report (e.g., educational, research, tech overview)
 1.2 Set the target audience level (e.g., students, professionals)
 1.3 Draft a list of core topics to cover
@@ -65,6 +67,7 @@ Step 7: Finalize and Export
 
 
 # Output
+
 ## Abstract  
 Artificial Intelligence (AI) has undergone a transformative evolution, advancing from simple rule-based systems to highly sophisticated generative models. At the heart of this transformation are Generative Artificial Intelligence (Generative AI) systems and Large Language Models (LLMs), which are redefining the boundaries of human–machine interaction. This report presents a comprehensive study of the foundational concepts, core architectures, training methodologies, and real-world applications of Generative AI and LLMs. It also examines critical limitations such as bias, hallucination, copyright issues, and sustainability concerns, while exploring future directions including scaling laws, multimodal integration, and explainable AI. The findings provide students and professionals with a structured, educational resource to understand these cutting-edge technologies.  
 
@@ -116,7 +119,8 @@ Generative AI refers to algorithms and models that create new data samples resem
 
 ---
 
-## 4. Types of Generative AI Models  
+## 4. Types of Generative AI Models 
+
 <img width="949" height="689" alt="image" src="https://github.com/user-attachments/assets/0ae86b58-a5d2-4c2b-99b2-d2a3da3fa2de" />
 
 ### 4.1 Generative Adversarial Networks (GANs)  
@@ -135,6 +139,7 @@ Generative AI refers to algorithms and models that create new data samples resem
 ---
 
 ## 5. Introduction to Large Language Models (LLMs)  
+
 LLMs are deep learning models trained on vast text datasets to understand and generate human-like language.  
 - Examples include GPT-3, GPT-4 (OpenAI), BERT (Google), and LLaMA (Meta).  
 - Applications span chatbots, summarization, translation, and coding assistants.  
@@ -147,17 +152,20 @@ LLMs are deep learning models trained on vast text datasets to understand and ge
 
 
 ### 6.1 Transformers  
+
 - Introduced in 2017 with the paper "Attention is All You Need".  
 - Key innovation: the Self-Attention Mechanism, which models relationships between words regardless of position.  
 
 ### 6.2 GPT Family (Generative Pretrained Transformer)  
+
 - GPT-2 (2019): Demonstrated coherent text generation.  
 - GPT-3 (2020): Featured 175 billion parameters and advanced fluency.  
 - GPT-4 (2023): Multimodal capabilities including text and images.
  
 <img width="349" height="319" alt="image" src="https://github.com/user-attachments/assets/8b3ad484-e55e-470b-8415-5197c23ff032" />
 
-### 6.3 BERT (Bidirectional Encoder Representations from Transformers)  
+### 6.3 BERT (Bidirectional Encoder Representations from Transformers) 
+
 - Pretrained using bidirectional context for deeper understanding.  
 - Widely used in search engines and natural language classification tasks.  
 <img width="267" height="328" alt="image" src="https://github.com/user-attachments/assets/f12345af-8924-4945-8452-3a2f0899b102" />
@@ -165,6 +173,7 @@ LLMs are deep learning models trained on vast text datasets to understand and ge
 ---
 
 ## 7. Training Process and Data Requirements  
+
 - Training requires very large datasets such as Wikipedia, books, and Common Crawl.  
 - Key stages:  
   1. **Pretraining:** Learning through self-supervised tasks such as predicting missing words.  
@@ -174,6 +183,7 @@ LLMs are deep learning models trained on vast text datasets to understand and ge
 ---
 
 ## 8. Applications of Generative AI and LLMs  
+
 - Chatbots and virtual assistants
   
 - Content generation such as reports, blogs, and scripts
@@ -189,6 +199,7 @@ LLMs are deep learning models trained on vast text datasets to understand and ge
 ---
 
 ## 9. Limitations and Ethical Considerations  
+
 - **Bias in Data:** Can lead to unfair or discriminatory outputs.
   
 - **Hallucinations:** Models sometimes generate false or misleading information.
@@ -204,6 +215,7 @@ LLMs are deep learning models trained on vast text datasets to understand and ge
 
 ## 10. Comparison with Traditional Approaches
 
+
 ### 10.1 Generative AI vs Traditional AI
 | Aspect              | Traditional AI (Discriminative)          | Generative AI (Creative/Generative) |
 |---------------------|-------------------------------------------|-------------------------------------|
@@ -211,6 +223,8 @@ LLMs are deep learning models trained on vast text datasets to understand and ge
 | Data Dependency     | Requires labeled datasets                | Can leverage both labeled and unlabeled data |
 | Output Type         | Deterministic, rule-based                | Probabilistic, creative, novel |
 | Examples            | Spam detection, fraud detection          | ChatGPT, DALL·E, Stable Diffusion |
+
+
 
 ### 10.2 Large Language Models vs Traditional NLP Models
 | Aspect                | Traditional NLP Models (e.g., RNNs, LSTMs) | Large Language Models (LLMs) |
@@ -266,5 +280,5 @@ Generative AI and LLMs represent one of the most significant technological break
 
 ---
 
-## Result:
+# Result:
 This experiment successfully produced a comprehensive, structured report on Generative AI and LLMs. The study confirms that transformer-based architectures, combined with large-scale training, can achieve state-of-the-art performance across multiple tasks, but require responsible governance to ensure safe and beneficial usage.
